@@ -4,11 +4,13 @@
   <a title="English" href="docs/README_en.md">English</a> | 
   <a title="日本語" href="docs/README_jp.md">日本語</a>
 </div>
+
+
 # My_AGTAC
 
 《算法竞赛进阶指南》（Advanced Guide To Algorithm Contest）是一本非常优秀的算法书籍。
 
-<img src="https://my-markdown-picture-bedding.oss-ap-northeast-1.aliyuncs.com/uPic/2025-01-05/QQ20250105-191538.png" alt="QQ20250105-191538" style="zoom:50%;" />
+<img src="https://my-markdown-picture-bedding.oss-ap-northeast-1.aliyuncs.com/uPic/2025-01-05/QQ20250105-191538.png" alt="QQ20250105-191538" style="zoom: 33%;" />
 
 本仓库主要用来记录我的学习笔记和做题记录。
 

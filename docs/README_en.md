@@ -9,7 +9,7 @@
 
 **"Advanced Guide to Algorithm Contest"** is an outstanding algorithm book.
 
-<img src="https://my-markdown-picture-bedding.oss-ap-northeast-1.aliyuncs.com/uPic/2025-01-05/QQ20250105-191538.png" alt="QQ20250105-191538" style="zoom:50%;" />
+<img src="https://my-markdown-picture-bedding.oss-ap-northeast-1.aliyuncs.com/uPic/2025-01-05/QQ20250105-191538.png" alt="QQ20250105-191538" style="zoom: 33%;" />
 
 This repository primarily serves as a place to record my study notes and problem-solving logs.
 
